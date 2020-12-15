@@ -1,0 +1,24 @@
+{
+  "name": "woboai",
+  "version": "1.0.0",
+  "description": "Chat APp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "chat",
+    "app",
+    "nodejs",
+    "react"
+  ],
+  "author": "KirtiSharma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "nodemon": "^2.0.6",
+    "socket.io": "^3.0.4"
+  }
+}
